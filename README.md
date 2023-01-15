@@ -12,13 +12,13 @@
 ## Part 2_Summary Statistics on Suspension Coils :
 The current manuafacturing data shows that the design specification is met in all lots
    in total because the total variance is only 62. The design specification for upper 
-   limit is 100 pounds per square inch. Therefore overall suspension performance is under the upper limmt spec, no big issue.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part2_suspension%20coil%20_overall_summary.PNG)
+   limit is 100 pounds per square inch. Therefore overall suspension performance is under the upper limmt spec, no big issue.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part2_suspension%20coil%20_overall_summary.PNG)<br />
    Further to study the performance of each production lots, lot3 has high variance of  170.29, SD of 13. Both statistic numbers are higher than lot1 and lot2. If we want to improve the perforance, we can start with lot3 suspension coil.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part2_suspension%20coil_%20lot_summary.PNG)
 
 
 ## Part 3_T-Tests on Suspension Coils:
 * overall p-value=1.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part3_%20overall%20t%20test.PNG)
-* lot1 p-value=9.35e-12.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part3_%20lot1_t_test.PNGg)
+* lot1 p-value=9.35e-12.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part3_%20lot1_t_test.PNG)
 * lot2 p-value=0.0005082.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part3_%20lot2_t_test.PNG)
 * lot3 p-value=0.1549.<br />   ![fig](https://github.com/violetqq0221/MechaCar_Statistical_Analysis/blob/main/part3_%20lot3_t_test.PNG)
 
